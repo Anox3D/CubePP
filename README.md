@@ -1,14 +1,13 @@
 # Cube++
-Attempt to a 3D console game engine base on this tutorial: https://youtu.be/ih20l3pJoeU.
-
-For some reasons it is not working even if I have the **EXACT SAME CODE** of the tutorial. Maybe it's my Visual Studio version that causes this problem (I'm using the 2019 community version).
+Turning cube made using OpenGL and GLUT based on this example: https://codes-sources.commentcamarche.net/source/10320-exemple-d-un-cube-plein-qui-tourne-en-opengl-utilise-glut.
 
 # No license so...
-There's no license so you can download the code if you want but it's kind of useless cause of the problems.
+There's no license so you can download the code if you want but mention me if you use it.
 
-# If you find what is the problem and how to fix it...
-If you find how to fix the problem, you can contact me on Discord, my tag is Anox3D#9720.
+# Usage
+Press Esc key to quit.
 
 # Screenshots
-![screenshot1](https://user-images.githubusercontent.com/71902913/110482756-4814f380-80e9-11eb-90f5-249e030fb110.png)
-![screenshot2](https://user-images.githubusercontent.com/71902913/110482761-48ad8a00-80e9-11eb-988c-9a0d171fcc32.png)
+![screenshot1](https://user-images.githubusercontent.com/71902913/111007864-1b363a00-8390-11eb-9ec5-69c6dc91d402.png)
+![screenshot2](https://user-images.githubusercontent.com/71902913/111007866-1bced080-8390-11eb-8934-323dfb5359dd.png)
+![screenshot3](https://user-images.githubusercontent.com/71902913/111007870-1bced080-8390-11eb-8a86-22d367d4ba3f.png)
