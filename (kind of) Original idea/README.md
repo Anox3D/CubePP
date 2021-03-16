@@ -13,7 +13,7 @@ Press Esc key to quit.
 # Screenshots
 <img name="screenshot1" src="https://user-images.githubusercontent.com/71902913/111381280-c6533600-86a5-11eb-89bc-a4fc4101e488.png">
 <img name="screenshot2" src="https://user-images.githubusercontent.com/71902913/111381381-edaa0300-86a5-11eb-9f4f-71ef1614ccf9.png">
-<img name="screenshot3" src="https://user-images.githubusercontent.com/71902913/111381994-b6882180-86a6-11eb-9bdf-8990db2d61a2.png">
+<img name="screenshot3" src="https://user-images.githubusercontent.com/71902913/111382098-d28bc300-86a6-11eb-9b25-40bf36d18147.png">
 
 # Video
 Click on the image to see the video.  
