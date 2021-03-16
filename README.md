@@ -14,4 +14,4 @@ Press Esc key to quit.
 
 # Video
 Click on the image to see the video.
-[![video](https://user-images.githubusercontent.com/71902913/111376087-517cfd80-869f-11eb-93f7-c06ec31b139e.png)](https://user-images.githubusercontent.com/71902913/111369965-ef6cca00-8697-11eb-92d2-4069a72b17c4.mp4)
+<embed type="video/mp4" src="https://user-images.githubusercontent.com/71902913/111369965-ef6cca00-8697-11eb-92d2-4069a72b17c4.mp4"></embed>
