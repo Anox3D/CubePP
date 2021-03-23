@@ -14,6 +14,6 @@ Press Esc key to quit.
 
 # Video
 Click on the image to see the video.  
-<a href="https://user-images.githubusercontent.com/71902913/111369965-ef6cca00-8697-11eb-92d2-4069a72b17c4.mp4">
+<a target="_blank" href="https://user-images.githubusercontent.com/71902913/111369965-ef6cca00-8697-11eb-92d2-4069a72b17c4.mp4">
   <img name="video" src="https://user-images.githubusercontent.com/71902913/111379428-6b204400-86a3-11eb-8696-e988bff50eaf.png" height="600px">
 </a>
