@@ -1,5 +1,5 @@
 # Cube++
-Turning cube made using OpenGL and GLUT based on this example: https://codes-sources.commentcamarche.net/source/10320-exemple-d-un-cube-plein-qui-tourne-en-opengl-utilise-glut.
+Turning cube made using OpenGL, Glu and GLUT based on this example: https://codes-sources.commentcamarche.net/source/10320-exemple-d-un-cube-plein-qui-tourne-en-opengl-utilise-glut.
 
 # No license so...
 There's no license so you can download the code if you want but mention me if you use it.
